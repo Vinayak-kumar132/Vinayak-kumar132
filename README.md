@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently in my final year of engineering .<br>
-👨‍💻 I am a Full Stack Developer with expertise in the MERN stack.<br>
+👨‍💻 I am a AI Full Stack Developer with expertise in the MERN stack.<br>
 🚀 Passionate about building scalable applications and optimizing performance.<br>
 🌱 I’m currently exploring Devops.<br>
 🛠️ I have experience with DevOps, including Docker, Kubernetes, CI/CD, and cloud deployment.<br>
