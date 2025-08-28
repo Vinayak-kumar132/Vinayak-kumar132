@@ -2,9 +2,9 @@
 🔭 I’m recently graduated from IIIT Guwahati .<br>
 👨‍💻 I am a AI Full Stack Developer with expertise in the MERN stack.<br>
 🚀 Passionate about building scalable applications and optimizing performance.<br>
-🌱 I’m currently exploring Devops.<br>
+🌱 I’m currently exploring Devops and AI.<br>
 🛠️ I have experience with DevOps, including Docker, Kubernetes, CI/CD, and cloud deployment.<br>
-🤔 I’m looking for full-stack developer and Devops related opportunity.
+🤔 I’m looking for AI full-stack developer and Devops related opportunity.
 
 
 ## 🌐 Socials:
