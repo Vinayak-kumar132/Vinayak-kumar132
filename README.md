@@ -1,10 +1,11 @@
 # 💫 About Me:
-🔭 I’m recently graduated from IIIT Guwahati .<br>
-👨‍💻 I am a AI Full Stack Developer with expertise in the MERN stack.<br>
-🚀 Passionate about building scalable applications and optimizing performance.<br>
-🌱 I’m currently exploring Devops and AI.<br>
-🛠️ I have experience with DevOps, including Docker, Kubernetes, CI/CD, and cloud deployment.<br>
-🤔 I’m looking for AI full-stack developer and Devops related opportunity.
+🔭 I’m a graduate from IIIT Guwahati and currently working as a DevOps Engineer.  
+👨‍💻 I specialize in DevOps and Backend Development with hands-on experience in real-world production systems.  
+🚀 Skilled in building scalable cloud infrastructure, automating CI/CD pipelines, and deploying applications on Kubernetes.  
+🧠 I also work on AI-based systems including RAG pipelines, LLM integrations, and backend services using FastAPI.  
+🛠️ Experienced with AWS, Terraform, Docker, Kubernetes, GitHub Actions, and system design fundamentals.  
+🌱 Currently exploring Advanced DevOps (Observability, OpenTelemetry) and AI + DevOps integrations.  
+🤝 Open to DevOps Engineer / Backend Engineer / AI Engineering opportunities.
 
 
 ## 🌐 Socials:
